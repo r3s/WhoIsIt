@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Whoisit
+_Comment=Whoisit application
+Categories=GNOME;Utility;
+Exec=whoisit
+Icon=/usr/share/whoisit/media/whoisit.svg
+Terminal=false
+Type=Application
